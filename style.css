@@ -1,0 +1,153 @@
+/*body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    border: none;
+    overflow: hidden;
+}*/
+
+
+.header-section{
+    background: #000000;
+
+}
+#container{
+    background: linear-gradient(#000000a3,#00000082), url(images/Website1.png);
+    background-size: cover;
+    background-position: center;
+
+
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+
+}
+    
+
+   /* background: linear-gradient(rgba(0, 24, 83, 0.703),#590000cc), url(images/images\ \(32\).jpeg);
+background-size: cover;
+background-position: center;
+height: 100vh;
+overflow: hidden;*/
+
+
+.nav-links{
+    font-size: 18px;
+
+
+}
+.nav-text{
+  
+  font-weight: 600;
+}
+
+
+
+.middle-homepage{
+
+    text-align: center;
+    color: white;
+    padding-top: 25rem;
+
+
+
+}
+
+
+.middle-homepage h1{
+    font-size: 75px;
+    font-family: 'Tilt Prism', cursive;
+    
+
+    
+}
+
+.home-btn{
+    margin: 50px auto 0;
+   
+   
+ }
+ 
+ .home-btn a{
+     width: 130px;
+     font-weight: 600;
+     text-decoration: none;
+     display: inline-block;
+     margin: 0 10px;
+     padding: 12px 0;
+     color: white;
+     border: .9px solid #fff;
+     border-radius: 9px;
+     position: relative;
+     z-index: 1;
+     transition: 0.5s;
+    
+  
+  }
+  /*
+  .home-btn a span{
+     width: 0;
+     height: 100%;
+     position: absolute;
+     top: 0;
+     left: 0;
+     background: #fff;
+     transition: 0.5s;
+  }
+ 
+  .home-btn a  :hover{
+     color: black;
+  }
+  */
+ 
+  .home-btn a:hover{
+     background-color:  #630000; 
+     color: #ffffff;
+     /* #a70202  */
+ 
+     
+  }
+
+
+.logo-amaljyothi{
+    text-align: center;
+}
+
+.logo-azure{
+    text-align: center;
+
+}
+.ece-logo{
+  text-align: center;
+}
+
+  .about-section{
+    
+    text-align: center;
+    background: black
+    
+  }
+  .featured-events{
+    background: black;
+    text-align: center;
+
+  }
+  .event-cards{
+    background: #000000;
+    border-radius:19px ;
+    border: 3px solid #a70202;
+
+  }
+ 
+ .card-img-top{
+    border-radius: 19px;
+  
+ }
+
+ .contact-section{
+    background: black;
+    text-align: center;
+
+  }

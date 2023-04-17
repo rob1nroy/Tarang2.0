@@ -1,0 +1,137 @@
+
+
+.header-section{
+    background: #000000;
+
+}
+
+.nav-links{
+    font-size: 18px;
+
+
+}
+.nav-text{
+  
+  font-weight: 600;
+}
+
+.home-section{
+
+    background: linear-gradient(#00000083,#0000008a), url(images/Website1.png);
+    height: 20cm;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    background-blend-mode:darken ;
+    overflow: hidden;
+
+
+}
+.text-style{
+    padding-top: 7rem;
+    color: white;
+}
+.ece-logo{
+    /* padding-top: 80px; */
+    text-align: start;
+}
+
+.azure-college-logo{
+    text-align: end;
+}
+.tarang-maintxt{
+    padding-top: 6rem;
+}
+
+
+.amaljyothi{
+    padding-top:1rem ;
+    
+
+}
+
+/* @media (min-width: 800px){
+    .hero-img{
+        height: 300px;
+        width: 300px;
+    }
+} */
+
+
+.home-btn{
+    margin: 50px auto 0;
+   
+   
+ }
+ 
+ .home-btn a{
+     width: 130px;
+     font-weight: 600;
+     text-decoration: none;
+     display: inline-block;
+     margin: 0 10px;
+     padding: 12px 0;
+     color: white;
+     border: .9px solid #fff;
+     border-radius: 9px;
+     position: relative;
+     z-index: 1;
+     transition: 0.5s;
+    
+  
+  }
+  /*
+  .home-btn a span{
+     width: 0;
+     height: 100%;
+     position: absolute;
+     top: 0;
+     left: 0;
+     background: #fff;
+     transition: 0.5s;
+  }
+ 
+  .home-btn a  :hover{
+     color: black;
+  }
+  */
+ 
+  .home-btn a:hover{
+     background-color:  #630000; 
+     color: #ffffff;
+     /* #a70202  */
+ 
+     
+  }
+.date-row{
+    float: right;
+}
+.containerforlogos{
+    padding-top: 6rem;
+}
+.date-row{
+    text-align: end;
+}
+
+.about-section{
+    text-align: center;
+    background: black
+    
+  }
+  .featured-events{
+    background: black;
+    text-align: center;
+
+  }
+  .event-cards{
+    background: #000000;
+    border-radius:19px ;
+    border: 3px solid #a70202;
+
+  }
+ 
+ .card-img-top{
+    border-radius: 19px;
+  
+ }
