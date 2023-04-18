@@ -138,6 +138,11 @@
  }
 
  @media only screen and (max-width: 600px) and (min-width: 320px) {
+    .cod{
+       height: 45cm;
+
+    }
+    
     .Mini-militia{
         padding-top: 9rem;
         height: 45cm;
@@ -147,4 +152,29 @@
         padding-top: 13rem;
         height: 45cm;
     }
+
+    
+ }
+
+ @media only screen and (max-width: 400px) {
+    .cod_img{
+        width: 340px; 
+        height: 500px; 
+        border-radius: 19px;
+    }
+
+    .mini_militia_img{
+        width: 340px; 
+        height: 500px; 
+        border-radius: 19px;
+    }
+
+    .stumbleguys_img{
+        width: 340px; 
+        height: 500px; 
+        border-radius: 19px;
+    }
+
+   
+    
  }
