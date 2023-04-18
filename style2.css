@@ -136,3 +136,13 @@
     border-radius: 19px;
   
  }
+
+ @media only screen and (max-width: 600px) and (min-width: 320px) {
+    .Mini-militia{
+        padding-top: 9rem;
+    }
+
+    .stumbleguys{
+        padding-top: 17rem;
+    }
+ }
