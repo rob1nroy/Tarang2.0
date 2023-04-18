@@ -178,3 +178,16 @@
    
     
  }
+.contact-section{
+    background: #131212;
+    overflow: hidden;
+
+}
+.crdntr1{
+
+    text-align: start;
+}
+.crdntr2{
+
+    text-align: end;
+}
