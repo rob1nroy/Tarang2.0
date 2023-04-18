@@ -140,41 +140,40 @@
  @media only screen and (max-width: 600px) and (min-width: 320px) {
     .cod{
        height: 45cm;
+       padding-right: 3rem;
+
 
     }
     
     .Mini-militia{
         padding-top: 9rem;
-        height: 45cm;
+        height: 50cm;
     }
 
     .stumbleguys{
         padding-top: 13rem;
-        height: 45cm;
+        height: 50cm;
     }
 
     
  }
 
- @media only screen and (max-width: 400px) {
+ @media only screen and (max-width: 400px) and (min-width: 320px) {
     .cod_img{
-        width: 340px; 
-        height: 500px; 
-        border-radius: 19px;
+        padding-right: 3rem;
     }
 
     .mini_militia_img{
-        width: 340px; 
-        height: 500px; 
-        border-radius: 19px;
+        padding-right: 3rem;
     }
 
     .stumbleguys_img{
-        width: 340px; 
-        height: 500px; 
-        border-radius: 19px;
+        padding-right: 3rem;
     }
 
    
-    
- }
+     }
+
+     .esports-btn{
+        padding-left: 2rem;
+     }
