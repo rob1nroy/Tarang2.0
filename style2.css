@@ -60,22 +60,24 @@
 
 
 .home-btn{
-    margin: 50px auto 0;
+    margin: 80px auto 0;
+    
    
    
  }
  
  .home-btn a{
-     width: 130px;
+     width: 200px;
      font-weight: 600;
      text-decoration: none;
      display: inline-block;
      margin: 0 10px;
      padding: 12px 0;
-     color: white;
+     color: rgb(0, 0, 0);
      border: .9px solid #fff;
      border-radius: 9px;
      position: relative;
+     background-color: #ffffff;
      
      transition: 0.5s;
     
@@ -98,7 +100,7 @@
   */
  
   .home-btn a:hover{
-     background-color:  #630000; 
+     background-color:  #0b0b0b; 
      color: #ffffff;
      /* #a70202  */
  
